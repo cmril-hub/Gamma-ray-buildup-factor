@@ -1,0 +1,16 @@
+material,energy_MeV,depth_mfp,response
+Lead,0.662,5,EBF
+Lead,0.662,10,EBF
+Lead,0.662,20,EBF
+Iron,1.25,10,EABF
+Nickel,0.35,17.5,EBF
+Ni,0.35,6.3,EBF
+79,0.1,3,EBF
+Gold,1.0,10,EABF
+Water,2.0,20,EABF
+Concrete,6.0,40,EBF
+Tungsten,0.09,15,EBF
+Bismuth,4.0,8,
+Uranium,0.5,12,EABF
+Hydrogen,1.0,10,EBF
+Iron,20,10,EBF

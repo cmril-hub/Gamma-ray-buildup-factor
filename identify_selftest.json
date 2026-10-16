@@ -1,0 +1,15 @@
+{
+  "bundle_created": "2026-10-16T21:54:36",
+  "trials": 300,
+  "points_per_trial": 4,
+  "scatter": 0.05,
+  "exact_match_top1": 0.6033,
+  "exact_match_top5": 0.8733,
+  "material_top1": 0.6733,
+  "true_Z_inside_90pct_range": 0.99,
+  "median_abs_Z_error": 1.0782,
+  "median_rel_Z_error": 0.0539,
+  "response_correct": 0.4433,
+  "response_wrong": 0.02,
+  "response_undecided": 0.5367
+}
